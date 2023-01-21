@@ -3,3 +3,7 @@ include
 lib
 __pycache__
 
+.DS_Store
+
+photos/input/*
+photos/output/*
